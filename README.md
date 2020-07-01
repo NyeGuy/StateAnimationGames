@@ -1,8 +1,31 @@
-# StateAnimationGames
-The State of Animation in Games Presentation, 7.2.20 - SCAD Interview
+# The State of Animation in Games Presentation, 
+7.2.20 - SCAD Interview
+Prepared by Nye Warburton
 
-# presentation
+# Presentation (PDF)
 https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v04.pdf
+
+# Assets
+
+# Vocabulary
+- Animation
+- Narrative
+- Retargeting
+- Character Mesh
+- Character Skeleton
+- Animation Curves
+- Character State
+- State Machine
+- Velocity
+- Cinematic
+- Cut Scene
+- Cinematography
+- Sandbox
+- Narrative System
+- Animation System
+- Neural Network
+- First Order Motion Model
+- Machine Learning
 
 # Reference and Links (by Slide)
 ### Slide 01
@@ -20,4 +43,6 @@ https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationi
 ### Slide 13
 ### Slide 14
 ### Slide 15
+
+
 
