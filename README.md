@@ -1,6 +1,12 @@
 # The State of Animation in Games
 - SCAD Interview / Presentation
 - Prepared by Nye Warburton, 7.2.20
+- contact :: nyewarburton (at) gmail (dot) com
+
+# To Download to your System:
+- GitBash to your Work Folder
+- Now, in the shell, type: git clone https://github.com/NyeGuy/StateAnimationGames.git
+- You now have a copy of all the assets you need to follow along!
 
 # Presentation (PDF)
 - Version 05:
@@ -9,6 +15,9 @@
 # Assets
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
 - Retargeting Scripts :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya/script
+
+![Image of NyeRig](https://github.com/NyeGuy/StateAnimationGames/blob/master/images_forgithub/NyeRig_image.JPG)
+![Image of Nye Animation](https://github.com/NyeGuy/StateAnimationGames/blob/master/images_forgithub/ANIM_nye_actions.JPG)
 
 #### Internet Resources
 - Mixamo Rigs / Animation :: https://www.mixamo.com/
@@ -42,17 +51,13 @@
 
 - Nye's Homepage: http://nyewarburton.com
 - Nye's IMDB: https://www.imdb.com/name/nm1100970/?ref_=fn_al_nm_1
-
 - The Los Angeles Philharmonic Symphony: https://www.laphil.com/
 - Daft Punk: https://daftpunk.com/
-
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
-
-- Oblivion: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
-
+- Oblivion, Dir. by Joseph Kosinski: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
+- The Thing, Dir. by John Capenter: https://www.imdb.com/title/tt0084787/
 - Mode-Adaptive Neural Networks for Quadruped Motion Control: http://homepages.inf.ed.ac.uk/tkomura/dog.pdf
 - Two Minute Papers Coverage: https://www.youtube.com/watch?v=Mnu1DzFzRWs
-
 - Cascadeur: https://cascadeur.com/
 - RunwayML: https://runwayml.com
 - Radical AI: http://getrad.co
