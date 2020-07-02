@@ -3,18 +3,21 @@
 Prepared by Nye Warburton
 
 # Presentation (PDF)
-https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v04.pdf
+Version 05:
+https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
 
-# Assets
+# Software, Tools and Assets
 Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
+Retargeting Scripts :: 
 
 #### Internet Resources
 Mixamo Rigs / Animation :: https://www.mixamo.com/
 Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
 
 # Software
-- Autodesk Maya :: https://www.autodesk.com/products/maya/
-
+- Autodesk Maya 2019 :: https://www.autodesk.com/products/maya/
+- Unreal Engine 4.24 :: https://www.unrealengine.com/
+- Open Broadcast Software 25.0.8 :: https://obsproject.com/
 
 # Vocabulary
 - Animation :: Motion of Character, Elements and FX
@@ -55,7 +58,7 @@ Dynamxyz: https://www.dynamixyz.com/
 EbSynth: https://ebsynth.com/
 Unity/ML Agents: https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/
 
-# Reading List and Links listed below
+# Reading List
 The Animator's Survival Kit, Williams, Richard, 2002: https://www.amazon.com/Animators-Survival-Kit-Richard-Williams/dp/0571202284
 The Illusion of Life, Frank Thomas and Ollie Johnson, Subsequent Edition,1995: https://www.amazon.com/Illusion-Life-Disney-Animation/
 Film Directing Shot by Shot, Katz, Stephen, 1991: https://www.amazon.com/Film-Directing-Shot-Visualizing-Productions/dp/0941188108
