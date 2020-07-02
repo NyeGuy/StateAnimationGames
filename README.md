@@ -2,6 +2,11 @@
 - SCAD Interview / Presentation
 - Prepared by Nye Warburton, 7.2.20
 
+# To Download to your System:
+- GitBash to your Work Folder
+- Now, in the shell, type: git clone https://github.com/NyeGuy/StateAnimationGames.git
+- You now have a copy of all the assets you need to follow along!
+
 # Presentation (PDF)
 - Version 05:
 - https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
