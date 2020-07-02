@@ -9,8 +9,8 @@
 - You now have a copy of all the assets you need to follow along!
 
 # Presentation (PDF)
-- Version 05:
-- https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
+- Version 06:
+- https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v06.pdf
 
 # Assets
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
