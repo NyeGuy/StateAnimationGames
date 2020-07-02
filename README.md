@@ -10,6 +10,9 @@
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
 - Retargeting Scripts :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya/script
 
+![Image of NyeRig](https://github.com/NyeGuy/StateAnimationGames/blob/master/images_forgithub/NyeRig_image.JPG)
+![Image of Nye Animation](https://github.com/NyeGuy/StateAnimationGames/blob/master/images_forgithub/ANIM_nye_actions.JPG)
+
 #### Internet Resources
 - Mixamo Rigs / Animation :: https://www.mixamo.com/
 - Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
