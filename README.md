@@ -1,18 +1,18 @@
 # The State of Animation in Games Presentation, 
-7.2.20 - SCAD Interview
-Prepared by Nye Warburton
+- 7.2.20 - SCAD Interview
+- Prepared by Nye Warburton
 
 # Presentation (PDF)
-Version 05:
-https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
+- Version 05:
+- https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
 
 # Software, Tools and Assets
-Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
-Retargeting Scripts :: 
+- Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
+- Retargeting Scripts :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya/script
 
 #### Internet Resources
-Mixamo Rigs / Animation :: https://www.mixamo.com/
-Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
+- Mixamo Rigs / Animation :: https://www.mixamo.com/
+- Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
 
 # Software
 - Autodesk Maya 2019 :: https://www.autodesk.com/products/maya/
@@ -38,38 +38,38 @@ Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
 
 
 # Reference and Links 
-Nye's Homepage: http://nyewarburton.com
-Nye's IMDB: https://www.imdb.com/name/nm1100970/?ref_=fn_al_nm_1
+- Nye's Homepage: http://nyewarburton.com
+- Nye's IMDB: https://www.imdb.com/name/nm1100970/?ref_=fn_al_nm_1
 
-The Los Angeles Philharmonic Symphony: https://www.laphil.com/
-Daft Punk: https://daftpunk.com/
+- The Los Angeles Philharmonic Symphony: https://www.laphil.com/
+- Daft Punk: https://daftpunk.com/
 
-Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
+- Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
 
-Oblivion: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
+- Oblivion: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
 
-Mode-Adaptive Neural Networks for Quadruped Motion Control: http://homepages.inf.ed.ac.uk/tkomura/dog.pdf
-Two Minute Papers Coverage: https://www.youtube.com/watch?v=Mnu1DzFzRWs
+- Mode-Adaptive Neural Networks for Quadruped Motion Control: http://homepages.inf.ed.ac.uk/tkomura/dog.pdf
+- Two Minute Papers Coverage: https://www.youtube.com/watch?v=Mnu1DzFzRWs
 
-Cascadeur: https://cascadeur.com/
-RunwayML: https://runwayml.com
-Radical AI: http://getrad.co
-Dynamxyz: https://www.dynamixyz.com/
-EbSynth: https://ebsynth.com/
-Unity/ML Agents: https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/
+- Cascadeur: https://cascadeur.com/
+- RunwayML: https://runwayml.com
+- Radical AI: http://getrad.co
+- Dynamxyz: https://www.dynamixyz.com/
+- EbSynth: https://ebsynth.com/
+- Unity/ML Agents: https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/
 
 # Reading List
-The Animator's Survival Kit, Williams, Richard, 2002: https://www.amazon.com/Animators-Survival-Kit-Richard-Williams/dp/0571202284
-The Illusion of Life, Frank Thomas and Ollie Johnson, Subsequent Edition,1995: https://www.amazon.com/Illusion-Life-Disney-Animation/
-Film Directing Shot by Shot, Katz, Stephen, 1991: https://www.amazon.com/Film-Directing-Shot-Visualizing-Productions/dp/0941188108
-The Hero of 1000 Faces, Campbell, Joseph: https://www.amazon.com/Hero-Thousand-Faces-NA/dp/9382742611
-Story, McKee, Robert, 1997: https://www.amazon.com/Story-Substance-Structure-Principles-Screenwriting/dp/0060391685/ref=sr_1_2?crid=6PGVE9J0E8KE&dchild=1&keywords=story+robert+mckee&qid=1593656717&s=books&sprefix=story+robert%2Cstripbooks%2C193&sr=1-2
-3D Graphics Primer for Graphics and Game Development Fletcher Dunn and Ian Parberry, 2011: https://www.amazon.com/Math-Primer-Graphics-Game-Development/
-Game Programming Patterns, Nystrom, Robert, (Open Source!): https://gameprogrammingpatterns.com/
-Designing Games, Sylvester, Tynan, 2013:https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937
-The Medium is the Message, McCluhan, Marshall, 1964: https://www.amazon.com/Medium-Message-Marshall-McLuhan/dp/0670044199
-The Black Swan, Talib, 2010: https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/
-PostCapitalism, A Guide to Our Future, Mason, Paul, 2015: https://www.amazon.com/Postcapitalism-Guide-Future-Paul-Mason/dp/0374536732
+- The Animator's Survival Kit, Williams, Richard, 2002: https://www.amazon.com/Animators-Survival-Kit-Richard-Williams/dp/0571202284
+- The Illusion of Life, Frank Thomas and Ollie Johnson, Subsequent Edition,1995: https://www.amazon.com/Illusion-Life-Disney-Animation/
+- Film Directing Shot by Shot, Katz, Stephen, 1991: https://www.amazon.com/Film-Directing-Shot-Visualizing-Productions/dp/0941188108
+- The Hero of 1000 Faces, Campbell, Joseph, 1949: https://www.amazon.com/Hero-Thousand-Faces-NA/dp/9382742611
+- Story, McKee, Robert, 1997: https://www.amazon.com/Story-Substance-Structure-Principles-Screenwriting/dp/0060391685/
+- 3D Graphics Primer for Graphics and Game Development Fletcher Dunn and Ian Parberry, 2011: https://www.amazon.com/Math-Primer-Graphics-Game-Development/
+- Game Programming Patterns, Nystrom, Robert, (Open Source!): https://gameprogrammingpatterns.com/
+- Designing Games, Sylvester, Tynan, 2013:https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937
+- The Medium is the Message, McCluhan, Marshall, 1964: https://www.amazon.com/Medium-Message-Marshall-McLuhan/dp/0670044199
+- The Black Swan, Talib, 2010: https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/
+- PostCapitalism, A Guide to Our Future, Mason, Paul, 2015: https://www.amazon.com/Postcapitalism-Guide-Future-Paul-Mason/dp/0374536732
 
 
 
