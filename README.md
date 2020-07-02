@@ -1,6 +1,7 @@
 # The State of Animation in Games
 - SCAD Interview / Presentation
 - Prepared by Nye Warburton, 7.2.20
+- contact :: nyewarburton (at) gmail (dot) com
 
 # To Download to your System:
 - GitBash to your Work Folder
