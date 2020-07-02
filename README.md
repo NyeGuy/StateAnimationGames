@@ -1,12 +1,12 @@
-# The State of Animation in Games Presentation, 
-- 7.2.20 - SCAD Interview
-- Prepared by Nye Warburton
+# The State of Animation in Games
+- SCAD Interview / Presentation
+- Prepared by Nye Warburton, 7.2.20
 
 # Presentation (PDF)
 - Version 05:
 - https://github.com/NyeGuy/StateAnimationGames/blob/master/SCAD_StateofAnimationinGames_v05.pdf
 
-# Software, Tools and Assets
+# Assets
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
 - Retargeting Scripts :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya/script
 
@@ -14,7 +14,7 @@
 - Mixamo Rigs / Animation :: https://www.mixamo.com/
 - Unreal Asset Store :: https://www.unrealengine.com/marketplace/en-US/store
 
-# Software
+#### Software
 - Autodesk Maya 2019 :: https://www.autodesk.com/products/maya/
 - Unreal Engine 4.24 :: https://www.unrealengine.com/
 - Open Broadcast Software 25.0.8 :: https://obsproject.com/
@@ -38,6 +38,8 @@
 
 
 # Reference and Links 
+* In Order of presentation
+
 - Nye's Homepage: http://nyewarburton.com
 - Nye's IMDB: https://www.imdb.com/name/nm1100970/?ref_=fn_al_nm_1
 
@@ -59,6 +61,8 @@
 - Unity/ML Agents: https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/
 
 # Reading List
+* Recommended Books for Animation, Filmmaking, Game Development and Intellectual Property
+
 - The Animator's Survival Kit, Williams, Richard, 2002: https://www.amazon.com/Animators-Survival-Kit-Richard-Williams/dp/0571202284
 - The Illusion of Life, Frank Thomas and Ollie Johnson, Subsequent Edition,1995: https://www.amazon.com/Illusion-Life-Disney-Animation/
 - Film Directing Shot by Shot, Katz, Stephen, 1991: https://www.amazon.com/Film-Directing-Shot-Visualizing-Productions/dp/0941188108
