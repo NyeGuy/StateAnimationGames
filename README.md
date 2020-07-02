@@ -50,17 +50,13 @@
 
 - Nye's Homepage: http://nyewarburton.com
 - Nye's IMDB: https://www.imdb.com/name/nm1100970/?ref_=fn_al_nm_1
-
 - The Los Angeles Philharmonic Symphony: https://www.laphil.com/
 - Daft Punk: https://daftpunk.com/
-
 - Nye Rig :: https://github.com/NyeGuy/StateAnimationGames/tree/master/assets/nye_rig_maya
-
-- Oblivion: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
-
+- Oblivion, Dir. by Joseph Kosinski: https://www.imdb.com/title/tt1483013/?ref_=fn_al_tt_1
+- The Thing, Dir. by John Capenter: https://www.imdb.com/title/tt0084787/
 - Mode-Adaptive Neural Networks for Quadruped Motion Control: http://homepages.inf.ed.ac.uk/tkomura/dog.pdf
 - Two Minute Papers Coverage: https://www.youtube.com/watch?v=Mnu1DzFzRWs
-
 - Cascadeur: https://cascadeur.com/
 - RunwayML: https://runwayml.com
 - Radical AI: http://getrad.co
